@@ -1,6 +1,7 @@
 Gustavo - Brazilian 🇧🇷
 
-📚 Student of System Analysis and Development - UNISANTOS
+📚 Student of System Analysis and Development - Catholic University of Santos
+
 
 
 <!---
